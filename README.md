@@ -6,7 +6,7 @@
 | 所属作品 Work | `d59f27x4zoxs`《脈經》十卷（晉 王叔和 撰，宋 林億等 類次校定） |
 | 底本 | 日本國立公文書館·內閣文庫藏，請求番號 303-0050，六冊；多紀氏、江戶醫學館（躋壽館）舊藏 |
 | 影像来源 | 公文書館デジタルアーカイブ [file/1075833](https://www.digital.archives.go.jp/file/1075833)（IIIF `api/iiif/4770610/manifest.json`）；书格 [mai_jing](https://www.shuge.org/view/mai_jing/) 据同一本制 PDF（CC0） |
-| 原图根 | Commons `File:NAJDA-303-0050 脈経1.pdf`…`脈経6.pdf`（2026-11-16 上传，账号 古籍小助手，sha1 已核，见下表），分类 `Category:脈經 (內閣文庫藏明翻刻宋嘉定何大任本)`（上级 `Category:脈經`） |
+| 原图根 | Commons `File:NAJDA-303-0050 脈経1.pdf`…`脈経6.pdf`（2026-11-16 首传，2026-11-17 以同名换成官方 JPEG2000 原图 6300×4600 新版本，账号 古籍小助手，sha1 已核，见下表），分类 `Category:脈經 (內閣文庫藏明翻刻宋嘉定何大任本)`（上级 `Category:脈經`） |
 | 册 | 01–06＝原装第 1–6 冊（册划分待登记原图时定） |
 | 工作区 id | `99k3i35yww`（`workspace.yaml`，同 book ID） |
 | 参校本 | book-text `Work/o/x/s/d59f27x4zoxs/default/`（维基文库转录，11 章；底本未核，非何大任本，异文须当心） |
@@ -28,20 +28,21 @@
 
 | 冊 | Commons 文件名 | IIIF item | 页数 | 大小 | sha1 |
 |---|---|---|---|---|---|
-| 1 | NAJDA-303-0050 脈経1.pdf | 4770610 | 35 | 35.6 MB | 8f241442e1340813bb10c8051f719ac9b352e4d4 |
-| 2 | NAJDA-303-0050 脈経2.pdf | 4770611 | 40 | 41.1 MB | ec8eba7717c43c4176b91fd8562af09265b879b4 |
-| 3 | NAJDA-303-0050 脈経3.pdf | 4770612 | 37 | 38.0 MB | 0e63eb03dc28acb9376cf6433b274ac1d70fc31b |
-| 4 | NAJDA-303-0050 脈経4.pdf | 4770613 | 44 | 45.8 MB | b4f300dcedd71ffe1c2142aee9241bc279d19796 |
-| 5 | NAJDA-303-0050 脈経5.pdf | 4770614 | 31 | 31.7 MB | ece096154e841c1a8d2b700156cd4bfce551fc6e |
-| 6 | NAJDA-303-0050 脈経6.pdf | 4770616 | 28 | 27.9 MB | b340599ada7540204d7765b2552a79b4f70f2abf |
+| 1 | NAJDA-303-0050 脈経1.pdf | 4770610 | 35 | 70.1 MB | 6971782708bc23e1cbb5c3b45f833baa043bae4e |
+| 2 | NAJDA-303-0050 脈経2.pdf | 4770611 | 40 | 81.3 MB | 27ec8a7dd6d8ec1d1385a763f7fcf6f2f8e8e77f |
+| 3 | NAJDA-303-0050 脈経3.pdf | 4770612 | 37 | 74.9 MB | 69a117dc4cfc5b9f42c4796dd83ee0c7bf0d23f3 |
+| 4 | NAJDA-303-0050 脈経4.pdf | 4770613 | 44 | 90.6 MB | b41880469e85f376916fac1a6f19c603d0845e81 |
+| 5 | NAJDA-303-0050 脈経5.pdf | 4770614 | 31 | 63.1 MB | adde7661b0905dcc4215959cf1c701b9a7bc1982 |
+| 6 | NAJDA-303-0050 脈経6.pdf | 4770616 | 28 | 57.0 MB | 327f7b57e226945228ae0fb9f391fc901ee61fd9 |
 
 公文書館按冊 PDF 直链猜测地址 404，故走 IIIF。IIIF item 号依本机下载记录（第 6 冊为 4770616，跳过 4770615），登记前以 manifest 复核。
 
 ## 进度
 
 - [x] book-index Book 建档（#2969）
-- [x] 原图下载（2026-11-16，用户本机 `D:\workplace\mai-jing-source\`；公文書館 IIIF 全分辨率 6300×4600 原样封 PDF，未重压）
-- [x] 上传 Commons（2026-11-16，6 冊 sha1 与本地一致）
+- [x] 原图下载（2026-11-17，用户本机 `D:\workplace\mai-jing-source\jp2\`；公文書館官方 JPEG2000 原图 6300×4600 原样嵌入 PDF，未重压。11-16 首版走 IIIF，实为 3000×2190，已作废）
+- [x] 上传 Commons（2026-11-17 新版本，6 冊 sha1／大小／页数与本地一致）
+- [ ] R2 页表按新图重登（01、02 的 r001 基于旧 3000px 图，需重登）
 - [ ] 登记原图（`guji source commons`）、拆页核对
 - [ ] 参校本做成语料
 - [ ] `guji db init／push`
