@@ -6,7 +6,7 @@
 | 所属作品 Work | `d59f27x4zoxs`《脈經》十卷（晉 王叔和 撰，宋 林億等 類次校定） |
 | 底本 | 日本國立公文書館·內閣文庫藏，請求番號 303-0050，六冊；多紀氏、江戶醫學館（躋壽館）舊藏 |
 | 影像来源 | 公文書館デジタルアーカイブ [file/1075833](https://www.digital.archives.go.jp/file/1075833)（IIIF `api/iiif/4770610/manifest.json`）；书格 [mai_jing](https://www.shuge.org/view/mai_jing/) 据同一本制 PDF（CC0） |
-| 原图根 | Commons `File:NAJDA-303-0050 脈経1.pdf`…`脈経6.pdf`（2026-11-16 上传，账号 古籍小助手，sha1 已核，见下表），分类 `Category:脈經` |
+| 原图根 | Commons `File:NAJDA-303-0050 脈経1.pdf`…`脈経6.pdf`（2026-11-16 上传，账号 古籍小助手，sha1 已核，见下表），分类 `Category:脈經 (內閣文庫藏明翻刻宋嘉定何大任本)`（上级 `Category:脈經`） |
 | 册 | 01–06＝原装第 1–6 冊（册划分待登记原图时定） |
 | 工作区 id | `99k3i35yww`（`workspace.yaml`，同 book ID） |
 | 参校本 | book-text `Work/o/x/s/d59f27x4zoxs/default/`（维基文库转录，11 章；底本未核，非何大任本，异文须当心） |
