@@ -13,3 +13,5 @@ cache/
 binarized/
 __pycache__/
 *.pyc
+# 耗时记录
+perf/
