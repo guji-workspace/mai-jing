@@ -1,0 +1,10 @@
+{
+ "digest": "676f89d61388e552faf61f1a3004624f2b9da14369b53378dc3b574f14f60841",
+ "files": {
+  "code.yaml": "9eef2a03fc9c4bb5aa057441c1eeb3412a15eb369ee531242104929dfcb5db35",
+  "row_hooks.py": "ae348fc6decf7fc9f6d29f965ccf7324deff736e79243a5794f4815efe245853"
+ },
+ "k": 1,
+ "note": "夹注噪点段否决门槛 500→200；小注段首尾按竖缝从已有段上下长（钩子 keben.row_hooks.jiazhu_heads，要开 row_segment.jiazhu_single_head）",
+ "tested_cv": "dev+g78c29c0bbd65"
+}

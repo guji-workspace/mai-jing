@@ -2,4 +2,6 @@
 # 工作区 id＝book ID（2026-10-28 起；不起短 id）。
 id: 99k3i35yww
 # 字形库：首跑前再定借库（候选：全唐文 995ejelvk0 刻本库），见 README「待定」。
-glyph_lib: {}
+glyph_lib:
+  borrow:
+    - {from: 995ejelvk0, scope: human+auto}
