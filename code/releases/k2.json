@@ -1,0 +1,11 @@
+{
+ "digest": "1a9adb74e17192fd40726098c859900cc4c8c454e4d6d45b0d66a7a08de5d827",
+ "files": {
+  "code.yaml": "62f0313921ad6cbf3adf0bfd42cf4e96f4becd4ea852701008b4deb72adcb2db",
+  "jiazhu_step.py": "5e26fff6a998cfadca79c0ccc17107ffba6e4cb77062199d6b356cc0784e6b30",
+  "row_hooks.py": "ae348fc6decf7fc9f6d29f965ccf7324deff736e79243a5794f4815efe245853"
+ },
+ "k": 2,
+ "note": "雙行小注按小字字距分行 row_split（自相关只认密排小注、短段与大字护栏），配 row_segment.jiazhu_rows；第 1 册 p13 放行 219→259、送审 41→18",
+ "tested_cv": "0.7.64.dev218+g937a7707311c"
+}

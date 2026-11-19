@@ -4,3 +4,4 @@ base: keben
 cv: ">=0.7.0"
 overrides:
   keben.row_hooks: row_hooks   # 夹注噪点段否决门槛 500→200（本书小字连通体偏小），要开 row_segment.jiazhu_single_head
+  keben.jiazhu_step: jiazhu_step  # 雙行小注按小字字距分行（row_split），要开 row_segment.jiazhu_rows
